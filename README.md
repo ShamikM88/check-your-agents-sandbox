@@ -8,4 +8,4 @@ task, name or figure refers to a real project.
 
 ## Licence
 
-[MIT](LICENSE).
+MIT Licence — see [LICENSE](LICENSE) for the full text.
